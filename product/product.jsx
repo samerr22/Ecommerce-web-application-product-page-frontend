@@ -5,10 +5,7 @@ import React from 'react';
 import Card from 'react-bootstrap/Card';
 import s55 from '/image/55.png';
 import Star from '/image/star.png';
-import Chat from '/image/chat.png';
-import Shoppin from '/image/shopping-cart.png';
-import CardText from 'react-bootstrap/esm/CardText';
-import { Link } from 'react-router-dom';
+
 
 
 
