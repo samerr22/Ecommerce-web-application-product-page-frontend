@@ -14,15 +14,7 @@ import Star from '/image/star.png';
 
 function product(){
 
-    const headerStyle = {
-        backgroundColor: '#f98029',
-        color: '#fff',
-        padding: '10px 0',
-        display: 'flex',
-        justifyContent: 'space-between',
-        alignItems: 'center',
-        height : '100px'
-      };
+  
       const searchBarStyle = {
         display: 'flex',
         alignItems: 'center',
