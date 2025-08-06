@@ -4,24 +4,6 @@ import { useState } from 'react';
 
 
 
-
-
-
-function product(){
-
-  
-      const searchBarStyle = {
-        display: 'flex',
-        alignItems: 'center',
-
-      };
-    
-      const userActionsStyle = {
-        display: 'flex',
-        alignItems: 'center',
-
-      };
-
       const [quantity, setQuantity] = useState(1);
 
       const handleIncrement = () => {
@@ -260,4 +242,5 @@ function product(){
 }
 
 export default product;
+
 
