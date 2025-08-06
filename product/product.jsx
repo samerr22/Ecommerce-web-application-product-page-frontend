@@ -1,10 +1,5 @@
 import { useState } from 'react';
-import 'bootstrap/dist/css/bootstrap.min.css';
-import usEr from '/image/user.png';
-import React from 'react';
-import Card from 'react-bootstrap/Card';
-import s55 from '/image/55.png';
-import Star from '/image/star.png';
+
 
 
 
@@ -265,3 +260,4 @@ function product(){
 }
 
 export default product;
+
