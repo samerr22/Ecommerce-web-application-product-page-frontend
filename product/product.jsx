@@ -4,21 +4,7 @@ import { useState } from 'react';
 
 
 
-      const [quantity, setQuantity] = useState(1);
-
-      const handleIncrement = () => {
-        if (quantity < 5) {
-          setQuantity(quantity + 1);
-        } else {
-          setQuantity(1); // Reset to 1 when it reaches 5
-        }
-      };
-    
-      const handleDecrement = () => {
-        if (quantity > 1) {
-          setQuantity(quantity - 1);
-        }
-      };
+   
 
 
 
@@ -242,5 +228,6 @@ import { useState } from 'react';
 }
 
 export default product;
+
 
 
