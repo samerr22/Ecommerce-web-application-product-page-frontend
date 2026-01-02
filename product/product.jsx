@@ -41,16 +41,7 @@ import { useState } from 'react';
  </header>
 
 
-      <div style={{ display: 'flex' ,justifyContent: 'space-between'}}>
-      <Card style={{ width: '20rem', height: '20rem',  border: 'none', backgroundColor: 'rgba(100, 100, 100, 0.1)',
-     borderRadius: '8px', position: 'relative', top: '50px', marginLeft: '100px' }}>
-      <Card.Img variant="top" src={s55} />
-      <div style={{display: 'flex'}}>
-      <Card.Img variant="" src={s55} style={{width: '5rem', height: '5rem'}} />
-      <Card.Img variant="" src={s55} style={{width: '5rem', height: '5rem'}} />
-      <Card.Img variant="" src={s55} style={{width: '5rem', height: '5rem'}} />
-      <Card.Img variant="" src={s55} style={{width: '5rem', height: '5rem'}} />
-      </div>
+   
       <Card.Body>
       </Card.Body>
     </Card>
@@ -228,6 +219,7 @@ import { useState } from 'react';
 }
 
 export default product;
+
 
 
 
