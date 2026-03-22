@@ -17,17 +17,7 @@ import { useState } from 'react';
       </div>
       <div style={searchBarStyle}>
         <input style={{width: '680px',height: '35px',borderRadius: '50px', marginLeft: '70px'  ,border: 'none'}}type="text" placeholder="Search..."  />
-        <button style={{ marginLeft: '-70px', 
-                         backgroundColor: '#f98029', 
-                         color: '#fff', 
-                         border: 'none', 
-                         borderRadius: '40px', 
-                         cursor: 'pointer',
-                         height: '20px',
-                         fontSize: '15px',
-                         display: 'flex',
-                         alignItems:'center',
-                         justifyContent:'center', }}>
+      
     Search
   </button>
       </div>
