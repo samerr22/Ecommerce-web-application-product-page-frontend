@@ -21,13 +21,7 @@ import { useState } from 'react';
     Search
   </button>
       </div>
-      <div style={userActionsStyle}>
-      <img src={usEr} alt="user" style={{ width: '40px', height: '40px', marginRight:'20px', }}/>
-        <a href="#" style={{marginRight: '20px'}}>Login</a>
-        <a href="#" style={{marginRght: '20px'}}>Sign Up</a>
-        <div style={{marginLeft: '20px'}}></div>
-        <img src={Shoppin} alt="user" style={{ width: '25px', height: '25px', marginRight: '200px', }}/>
-      </div>  
+      
  </header>
 
 
