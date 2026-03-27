@@ -18,12 +18,7 @@ import { useState } from 'react';
       <div style={searchBarStyle}>
         <input style={{width: '680px',height: '35px',borderRadius: '50px', marginLeft: '70px'  ,border: 'none'}}type="text" placeholder="Search..."  />
       
-    Search
-  </button>
-      </div>
-      
- </header>
-
+ 
 
    
       <Card.Body>
