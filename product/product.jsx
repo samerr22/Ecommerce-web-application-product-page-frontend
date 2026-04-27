@@ -20,9 +20,7 @@ import { useState } from 'react';
       
  
 
-   
-      <Card.Body>
-      </Card.Body>
+
     </Card>
       
       <div>
